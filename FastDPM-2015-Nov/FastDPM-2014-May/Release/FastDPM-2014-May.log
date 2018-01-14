@@ -1,0 +1,74 @@
+﻿  FastDPM.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  loadPyramid.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  main.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  yuStdDirFiles_标准库目录操作.cpp
+yuStdDirFiles_标准库目录操作.cpp(199): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+yuStdDirFiles_标准库目录操作.cpp(200): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.14393.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+  cvPrint.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\auxiliary\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  getCurrentTime.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\auxiliary\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  yuSaveMat.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\auxiliary\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  analyze_model.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  apply_rules.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  apply_rules2.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  apply_rules3.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  bboxpred_get.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  bboxpred_input.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  bounded_dt.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  bounded_dt2.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  clipboxes.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  cvPermutate.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  detections_trees2.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  draw_img.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  fconv.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  正在编译...
+  featpyramid.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  featpyramid2.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  features.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  features14_2.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  flipfeat.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  get_score_size.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  load_model.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  loc_feat.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  model_get_block.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  nms.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  parse_detections.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  pDollar_nms.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  reduceboxes.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  sum_score.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
+  yuInd2Sub.cpp
+c:\users\administrator\desktop\fastdpm-2015-nov\fastdpm-2015-nov\fastdpm-2014-may\funs\../PM_type.h(14): fatal error C1083: 无法打开包括文件: “opencv2\opencv.hpp”: No such file or directory
